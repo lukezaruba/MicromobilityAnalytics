@@ -21,3 +21,6 @@ Comparison of forecasting methods for scooter trip origins and destinations acro
   - script2.py
 - [.gitignore](.gitignore)
 - [README.md](README.md) (this file)
+
+## Workflow
+![Project Workflow](https://github.com/lukezaruba/MicromobilityForecasting/blob/main/docs/Micromobility%20Workflow.png?raw=true)

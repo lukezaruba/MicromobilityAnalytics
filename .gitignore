@@ -10,3 +10,5 @@
 *.cpg
 # APRX
 *.aprx
+# Other
+.DS_Store

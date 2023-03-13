@@ -1,8 +1,6 @@
-# Project Name Here
+# Micromobility Forecasting in Minneapolis, MN with ArcGIS
 
-Project description here.....
-
-This template repo serves as a basic foundation to build repos for spatial data science projects.
+Comparison of forecasting methods for scooter trip origins and destinations across space and time, in Minneapolis.
 
 ## Repo Structure
 - [data/](data/)

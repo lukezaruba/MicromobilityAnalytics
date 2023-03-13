@@ -1,0 +1,12 @@
+# Geodatabase
+*.gdb
+# Shapefiles
+*.shp
+*.prj
+*.shx
+*.dbf
+*.sbn
+*.sbx
+*.cpg
+# APRX
+*.aprx

@@ -10,3 +10,9 @@
 [https://opendata.minneapolismn.gov/datasets/pw-street-centerline/explore?location=44.968483%2C-93.263404%2C12.73](https://opendata.minneapolismn.gov/datasets/pw-street-centerline/explore?location=44.968483%2C-93.263404%2C12.73)
 
 *Centerlines*
+
+### Communities (City of Minneapolis)
+
+[https://opendata.minneapolismn.gov/datasets/communities/explore?location=44.970889%2C-93.261718%2C12.31](https://opendata.minneapolismn.gov/datasets/communities/explore?location=44.970889%2C-93.261718%2C12.31)
+
+*City of Minneapolis Communities*

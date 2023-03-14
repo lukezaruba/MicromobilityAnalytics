@@ -1,14 +1,4 @@
-# Geodatabase
-*.gdb
-# Shapefiles
-*.shp
-*.prj
-*.shx
-*.dbf
-*.sbn
-*.sbx
-*.cpg
-# APRX
-*.aprx
-# Other
+/MicromobilityForecastingAPRX
 .DS_Store
+.ipynb_checkpoints
+*.nc

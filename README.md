@@ -15,7 +15,6 @@ A comparison of spatiotemporal prediction methods in the ArcGIS ecosystem for fo
     - [DailyTripCount.png](docs/DailyTripCount.png)
     - [DayOfWeekTripCount.png](docs/DayOfWeekTripCount.png)
     - [HourOfDayTripCount.png](docs/HourOfDayTripCount.png)
-    - [Micromobility Workflow.png](docs/Micromobility Workflow.png)
 - [notebooks/](notebooks/)
   - [analysis.ipynb](notebooks/analysis.ipynb)
   - [deeplearning.ipynb](notebooks/deeplearning.ipynb)

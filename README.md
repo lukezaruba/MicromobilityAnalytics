@@ -4,21 +4,23 @@ A comparison of spatiotemporal prediction methods in the ArcGIS ecosystem for fo
 
 ## Repo Structure
 - [data/](data/)
-  - [cleaned/](data/cleaned)
-    - cleaned.csv
+  - [sources.md](data/sources.md)
   - [outputs/](data/outputs)
-    - output.geojson
   - [raw/](data/raw)
-    - raw.csv
+    - [Minneapolis_Communities.shp](data/raw/Communities)
+    - [PW_Street_Centerline.shp](data/raw/PW_Street_Centerline)
+    - Motorized_Foot_Scooter_Trips_2021.csv
   - [docs/](docs/)
-    - report.pdf
-    - map.pdf
+    - [CommunityODMatrix.png](docs/CommunityODMatrix.png)
+    - [DailyTripCount.png](docs/DailyTripCount.png)
+    - [DayOfWeekTripCount.png](docs/DayOfWeekTripCount.png)
+    - [HourOfDayTripCount.png](docs/HourOfDayTripCount.png)
+    - [Micromobility Workflow.png](docs/Micromobility Workflow.png)
 - [notebooks/](notebooks/)
-  - 01-notebook-name.ipynb
-  - 02-notebook-name.ipynb
-- [scripts/](scripts/)
-  - script1.py
-  - script2.py
+  - [analysis.ipynb](notebooks/analysis.ipynb)
+  - [deeplearning.ipynb](notebooks/deeplearning.ipynb)
+  - [etl.ipynb](notebooks/etl.ipynb)
+  - [randomforest.ipynb](notebooks/randomforest.ipynb)
 - [.gitignore](.gitignore)
 - [README.md](README.md) (this file)
 
@@ -29,3 +31,14 @@ A comparison of spatiotemporal prediction methods in the ArcGIS ecosystem for fo
 - 32 weeks in 2021 with data
 - April through August will be used as training data
 - September and October will be used as test data
+
+### Methodology
+- Forest-Based Forecast
+  - Model Scale
+    - Individual Location
+    - Entire Cube
+    - Time Series Cluster
+- Deep Learning Forecast
+  - Residual Neural Network (ResNet)
+  - Fully Convolutional Network (FCN)
+  - Long Short-Term Memory (LSTM)

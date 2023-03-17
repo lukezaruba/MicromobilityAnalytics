@@ -17,9 +17,7 @@ A comparison of spatiotemporal prediction methods in the ArcGIS ecosystem for fo
     - [HourOfDayTripCount.png](docs/HourOfDayTripCount.png)
 - [notebooks/](notebooks/)
   - [analysis.ipynb](notebooks/analysis.ipynb)
-  - [deeplearning.ipynb](notebooks/deeplearning.ipynb)
   - [etl.ipynb](notebooks/etl.ipynb)
-  - [randomforest.ipynb](notebooks/randomforest.ipynb)
 - [.gitignore](.gitignore)
 - [README.md](README.md) (this file)
 
@@ -28,16 +26,21 @@ A comparison of spatiotemporal prediction methods in the ArcGIS ecosystem for fo
 
 ### Data
 - 32 weeks in 2021 with data
-- April through August will be used as training data
-- September and October will be used as test data
 
 ### Methodology
-- Forest-Based Forecast
-  - Model Scale
-    - Individual Location
-    - Entire Cube
-    - Time Series Cluster
-- Deep Learning Forecast
-  - Residual Neural Network (ResNet)
-  - Fully Convolutional Network (FCN)
-  - Long Short-Term Memory (LSTM)
+
+- Time Series Clustering
+  - Value
+  - Profile (Correlation)
+  - Profile (Fourier)
+- Local Outlier Analysis
+- Emerging Hot Spot Analysis
+
+### Visualization
+- Origins Heat Map & Tessellation
+- Destinations Heat Map & Tessellation
+- OD Tessellation Dot Density & OD Tessellation Bivariate
+- OD Tessellation Centroid (Points)
+- Time Series Clusters (2D)
+- Local Outliers (2D)
+- Emerging Hot Spot (3D)

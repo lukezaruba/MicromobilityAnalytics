@@ -11,7 +11,7 @@ Spatial data science & spatiotemporal analytics in the Esri ecosystem for analyz
     - [PW_Street_Centerline.shp](data/raw/PW_Street_Centerline)
     - Motorized_Foot_Scooter_Trips_2021.csv
   - [docs/](docs/)
-    - [TSC Charts/](docs/TSC Charts/)
+    - [TSC Charts/](docs/TSC%20Charts/)
     - [CommunityODMatrix.png](docs/CommunityODMatrix.png)
     - [DailyTripCount.png](docs/DailyTripCount.png)
     - [DayOfWeekTripCount.png](docs/DayOfWeekTripCount.png)

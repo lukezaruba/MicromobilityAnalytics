@@ -1,6 +1,6 @@
 # Micromobility Analytics in Minneapolis, MN with ArcGIS
 
-Spatial data science & spatiotemporal analytics in the Esri ecosystem for analyzing scooter trip origins and destinations in Minneapolis, MN.
+Spatiotemporal analytics in the Esri ecosystem for analyzing scooter trip origins and destinations in Minneapolis, MN.
 
 ## Repo Structure
 - [data/](data/)

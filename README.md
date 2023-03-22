@@ -5,7 +5,6 @@ Spatiotemporal analytics in the Esri ecosystem for analyzing scooter trip origin
 ## Repo Structure
 - [data/](data/)
   - [sources.md](data/sources.md)
-  - [outputs/](data/outputs)
   - [raw/](data/raw)
     - [Minneapolis_Communities.shp](data/raw/Communities)
     - [PW_Street_Centerline.shp](data/raw/PW_Street_Centerline)
